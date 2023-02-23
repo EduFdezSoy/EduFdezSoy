@@ -1,4 +1,7 @@
-Henlo
+Henlo, I'm Edu
+
+🌐 - I have a fancy web with more info about me at [edufdez.es](https://edufdez.es/) 📺  
+🎮 - I make games with some other people at [backpain.fun](https://backpain.fun) 🦐
 
 <!--
 **EduFdezSoy/EduFdezSoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
